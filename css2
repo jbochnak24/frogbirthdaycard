@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.cover-page {
+    position: relative;
+    text-align: center;
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.card-subtitle {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.open-button {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.open-button:hover {
+    background-color: #45a049;
+}
+
+/* Add styles for the inside page */
+/* (styles for inside.html) */
