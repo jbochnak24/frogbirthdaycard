@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Froggy Birthday Card</title>
+</head>
+<body>
+    <div class="cover-page">
+        <h1 class="card-title">Happy Birthday</h1>
+        <p class="card-subtitle">Hoppy Birthday to Someone Special!</p>
+        <img src="https://ih1.redbubble.net/image.2255648064.8652/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg alt="Frogs on Lily Pads">
+        <button class="open-button" onclick="location.href='inside.html'">OPEN</button>
+    </div>
+</body>
+</html>
